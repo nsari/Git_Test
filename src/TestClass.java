@@ -1,6 +1,7 @@
 public class TestClass {
     public static void main(String[] args) {
     System.out.println("Hello git hub");
+        System.out.println("Hello from git hub");
 
 /*
 echo "# Git_Test" >> README.md
